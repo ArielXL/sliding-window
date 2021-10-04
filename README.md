@@ -11,7 +11,7 @@
 Resolver problemas sobre arrays (cadenas) en busca de operaciones sobre subarrays (subcadenas)
 puede en algunos casos ser ineficiente. Como solución a lo anterior mostraremos la técnica conocida
 como *sliding window*. A modo de curiosidad, diremos que la traducción a *sliding window* es ventana
-corrediza. En este trabajo pretendemos explicar y desarrollar dicho algoritmo. El análisis teórico del algoritmo será acompañado por la resolución de problemas cuya solución utiliza esta idea y, en muchos casos, será guiado por ella. Con los problemas se mostrarán además sus respectivos análisis e implementaciones. Para un análisis más detallado puede consultar nuestro documento adjunto [Sliding Window](./Sliding Window.pdf).
+corrediza. En este trabajo pretendemos explicar y desarrollar dicho algoritmo. El análisis teórico del algoritmo será acompañado por la resolución de problemas cuya solución utiliza esta idea y, en muchos casos, será guiado por ella. Con los problemas se mostrarán además sus respectivos análisis e implementaciones. Para un análisis más detallado puede consultar nuestro documento adjunto [Sliding Window](./doc/report.pdf).
 
 ## Sobre los problemas
 
